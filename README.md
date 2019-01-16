@@ -10,4 +10,4 @@ Worked at Alfred:
 
 Input __mplay__ first
 
-[](img/guide.png)
+![](img/guide.png)
